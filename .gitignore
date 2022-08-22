@@ -1,0 +1,30 @@
+# IntelliJ IDEA #
+.idea/
+/.idea/
+*/.idea/
+*.iws
+*.iml
+*.ipr
+
+# Java class files
+*.class
+
+# Generated files
+*/bin/
+*/gen/
+*/out/
+
+### user ###
+target/
+/target/
+/src/logs/
+*.zip
+sdkTest.log
+
+
+#some local files
+*/.DS_Store
+.DS_Store
+gradlew
+gradlew.bat
+unused.txt
